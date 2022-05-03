@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Content to come](README.md)
+* [Project stories](README.md)
