@@ -9,7 +9,7 @@
 
 ## Forks and hardware
 
-- [opendbc](https://github.com/dzid26/opendbc) — fork of sunnypilot/opendbc with a **Tesla cooperative steering** implementation: blends driver and system torque, with torque-to-angle/ramp mapping and LKAS compensation.
+- [opendbc](https://github.com/dzid26/opendbc) — fork of sunnypilot/opendbc with a **Tesla cooperative steering** implementation: blends driver and system torque, with torque-to-angle/ramp mapping
 - [OBD-C_Y_splitter](https://github.com/dzid26/OBD-C_Y_splitter) — OBD-C Y splitter hardware.
 - [Batman-dock](https://github.com/dzid26/Batman-dock) — mount for Konik A1 v0.5 with pins.
 - [JLC2KiCad_gui](https://github.com/dzid26/JLC2KiCad_gui) — KiCad component library generator for JLCPCB/EasyEDA parts (fork).
